@@ -18,4 +18,9 @@ experience across enterprise systems, cloud platforms, and network operations.
 I publish technical articles on cloud infrastructure thrice a week on LinkedIn.
 Everything here comes from production work, not vendor decks.
 
+## Research
+Applied data exploration and network modeling from my FAO years.
+[Google Scholar](https://scholar.google.com/citations?user=724KCOwAAAAJ&hl=en) — 62 citations,
+avian influenza surveillance networks.
+
 📍 Dhaka, Bangladesh
