@@ -15,7 +15,7 @@ experience across enterprise systems, cloud platforms, and network operations.
 - `failover-budget` — measuring real DNS and GSLB recovery time (bdNOG22 talk)
 
 ## Writing
-I publish technical articles on cloud infrastructure twice a week on LinkedIn.
+I publish technical articles on cloud infrastructure thrice a week on LinkedIn.
 Everything here comes from production work, not vendor decks.
 
 📍 Dhaka, Bangladesh
