@@ -1,16 +1,21 @@
-## Hi there 👋
+# Rahman Khan
 
-<!--
-**rahmankhanjohn/rahmankhanjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building cloud infrastructure for the agentic era.
 
-Here are some ideas to get you started:
+Products & Solutions at Pico Public Cloud, Dhaka. 24 years of infrastructure
+experience across enterprise systems, cloud platforms, and network operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Cloud platform products: what enterprises actually ask for versus what vendors sell
+- Cost and operations: Kubernetes economics, multi-tenant attribution, FinOps
+- Security depth: zero trust, application protection, detection engineering
+
+## Open source
+- Contributing to CNCF projects (OpenCost, FinOps and cloud-native tooling)
+- `failover-budget` — measuring real DNS and GSLB recovery time (bdNOG22 talk)
+
+## Writing
+I publish technical articles on cloud infrastructure twice a week on LinkedIn.
+Everything here comes from production work, not vendor decks.
+
+📍 Dhaka, Bangladesh
