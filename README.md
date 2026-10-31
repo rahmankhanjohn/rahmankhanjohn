@@ -30,6 +30,10 @@ experience across enterprise systems, cloud platforms, and network operations.
 | [boundary-check](https://github.com/rahmankhanjohn/boundary-check) | Analyzes service deps for co-deploy pairs and circular deps | 8 | Python |
 
 All tools: MIT license, zero dependencies, single file. Each has a `--report` mode that prints a paste-ready line for your next review.
+## Recognition
+
+Indexed on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/rahmankhanjohn) - the open reference memory AI coding agents search before they write code.
+
 ## Writing
 I publish technical articles on cloud infrastructure thrice a week on LinkedIn.
 Everything here comes from production work, not vendor decks.
