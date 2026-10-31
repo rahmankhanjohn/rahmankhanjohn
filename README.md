@@ -19,7 +19,7 @@ experience across enterprise systems, cloud platforms, and network operations.
 
 | Tool | What it does | Tests | Language |
 |------|-------------|-------|----------|
-| [failover-budget](https://github.com/rahmankhanjohn/failover-budget) | Measures real DNS/GSLB failover time | 32 | Python |
+| [failover-budget](https://github.com/rahmankhanjohn/failover-budget) | Measures real DNS/GSLB failover time | 34 | Python |
 | [portability-lint](https://github.com/rahmankhanjohn/portability-lint) | Finds what breaks if you move clouds | 5 | Python |
 | [openstack-lab](https://github.com/rahmankhanjohn/openstack-lab) | Free OpenStack learning path, in scripts | 7 | Python |
 | [cost-tag-validator](https://github.com/rahmankhanjohn/cost-tag-validator) | Checks tagging taxonomy before finance asks | 9 | Python |
@@ -28,8 +28,10 @@ experience across enterprise systems, cloud platforms, and network operations.
 | [gitops-check](https://github.com/rahmankhanjohn/gitops-check) | Validates GitOps repo structure and secret externalization | 10 | Python |
 | [event-schema-lint](https://github.com/rahmankhanjohn/event-schema-lint) | Validates event schemas for versioning and idempotency | 9 | Python |
 | [boundary-check](https://github.com/rahmankhanjohn/boundary-check) | Analyzes service deps for co-deploy pairs and circular deps | 8 | Python |
+| [airgap-ai-stack](https://github.com/rahmankhanjohn/airgap-ai-stack) | Packs, verifies, deploys, and attests AI models in air-gapped enclaves | 17 | Go |
 
-All tools: MIT license, zero dependencies, single file. Each has a `--report` mode that prints a paste-ready line for your next review.
+All tools: MIT license, zero dependencies. Each prints a paste-ready report line for your next review.
+
 ## Recognition
 
 Indexed on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/rahmankhanjohn) - the open reference memory AI coding agents search before they write code.
@@ -47,4 +49,4 @@ avian influenza surveillance networks.
 
 ## Who is this for?
 
-No telemetry in this tool. If you use it, plan to, or rejected it, tell us your environment in [the discussion thread](https://github.com/rahmankhanjohn/rahmankhanjohn/discussions/1). Operator replies steer the roadmap.
+No telemetry in these tools. If you use one, plan to, or rejected it, tell us your environment in [the discussion thread](https://github.com/rahmankhanjohn/rahmankhanjohn/discussions/1). Operator replies steer the roadmap.
